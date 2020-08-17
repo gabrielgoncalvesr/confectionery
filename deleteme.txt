@@ -1,0 +1,10 @@
+ O volume na unidade C ‚ OS
+ O N£mero de S‚rie do Volume ‚ 4815-9357
+
+ Pasta de C:\Users\greis\Desktop\projetos\confectionery
+
+16/08/2020  23:03    <DIR>          .
+16/08/2020  23:03    <DIR>          ..
+16/08/2020  23:03                 0 deleteme.txt
+               1 arquivo(s)              0 bytes
+               2 pasta(s)   51.233.337.344 bytes dispon¡veis
