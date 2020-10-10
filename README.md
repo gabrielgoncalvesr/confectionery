@@ -1,2 +1,0 @@
-# confectionery
-Project to confectionery.
